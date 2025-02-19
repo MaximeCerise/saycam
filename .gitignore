@@ -1,0 +1,6 @@
+__pycache__/
+results_yolo5s/
+results_yolo11s/
+venv/
+vid/
+*.pt
