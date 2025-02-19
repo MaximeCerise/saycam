@@ -1,8 +1,7 @@
 """
 Script to extract frames from all videos in a directory
-Author: Your Name
+Author: Maxime
 Date: 2023-10-10
-Version: 1.1
 
 Description:
 This script extracts frames from all videos in a specified directory at regular intervals and saves them to separate output directories.
