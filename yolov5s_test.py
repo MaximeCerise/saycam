@@ -1,5 +1,5 @@
-from ut import predict_yolo
-from ut import predict_all_frames
+from ut_yolo5 import predict_yolo
+from ut_yolo5 import predict_all_frames
 import torch
 import pandas as pd
 from ut_plots import plot_focus_map

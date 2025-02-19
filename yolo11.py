@@ -1,11 +1,11 @@
 from ultralytics import YOLO
-from ut import predict_yolo
-from ut import predict_all_frames
+from ut_yolo5 import predict_yolo
+from ut_yolo5 import predict_all_frames
 import torch
 import pandas as pd
 from ut_plots import plot_focus_map
 
-from to_frames import extraire_frames
+from extract_frames_from_vidmp4 import extraire_frames
 
 img_path = "vid_frames/vid2_frames/frame_2.jpg"
 img2 = "vid_frames/vid2_frames/frame_100.jpg"

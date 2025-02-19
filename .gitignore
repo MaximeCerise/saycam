@@ -3,5 +3,5 @@ results_yolo5s/
 results_yolo11s/
 venv/
 vid/
-vid_frames/
+extracted_frames/
 *.pt
